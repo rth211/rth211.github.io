@@ -1,0 +1,36 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+permalink: /:year/:month/:day/:title.html
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: true
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: 半夜睡不着觉的Blog
+
+description: 技术、生活、情感、瞎扯
+# gavatar头像及Favicon
+gavatar: /images/avtar.jpg
+favicon: /images/avtar.jpg
+
+author:
+  name: rth211
+  email: rth211@qq.com
+  github: rth211
+  twitter: rth211
+  pinterest: rth211
+  linkedin: rth211
+  bio: 莫忘初心，方得始终~
+  email_md5: 726351295ec82e145928582f595aa3aa
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
