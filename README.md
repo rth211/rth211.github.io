@@ -1,5 +1,33 @@
-半夜睡不着觉r的Blog
+dbyll
 =====
-基于Jekyll-Bootstrap搭建的个人博客.
-感谢[原作者:dbtek](https://github.com/dbtek),有需要的朋友可以点击链接去看看.
-最后想说声:为开源点赞。
+
+Open source stylish, minimalistic theme for jekyll.  
+Demo: http://dbtek.github.io/dbyll/
+
+## New
+Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
+
+### Features
+- Responsive layout.
+- Supports tags and categories.
+- Social profile and bio of author.
+- Bootstrap based.
+- Glyphicon and Font-Awesome Icons.
+- Pagination.
+- Syntax highlighting with pygments.
+- Disqus comments.
+
+
+### Download
+* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
+
+### Screenshots
+
+![dbyll-screenshot](	assets/media/dbyll-ss.png)
+
+### License
+- [MIT](http://opensource.org/licenses/MIT)
+
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
