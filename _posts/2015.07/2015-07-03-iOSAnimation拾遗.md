@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UIView Animation
+title: UIView Animation(一)
 date: 2015-07-03 02:50:00 PM
 category: iOS基础
 tags: iOS
@@ -36,7 +36,7 @@ tags: iOS
 		UIViewAnimationOptionShowHideTransitionViews //用显隐的方式替代添加移除图层的动画效果
 
 		UIViewAnimationOptionOverrideInheritedOptions //忽略嵌套继承的选项
-		
+
 		//时间函数曲线相关
 
 		UIViewAnimationOptionCurveEaseInOut //时间曲线函数，由慢到快
