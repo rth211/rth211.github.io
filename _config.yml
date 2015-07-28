@@ -3,9 +3,9 @@ title: 任天恒的Blog
 header-img: img/home-bg.jpg
 email: rth211@qq.com
 description: "任天恒的Blog"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: 
+baseurl: ""
+url: "http://rth211.github.io"
+twitter_username:
 github_username:  rth211
 facebook_username:  rth211
 
