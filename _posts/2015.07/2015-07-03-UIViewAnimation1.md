@@ -1,9 +1,11 @@
 ---
 layout: post
 title: UIView Animation(一)
-date: 2015-07-03 02:50:00 PM
+subtitle:   "UIView Animation摘要"
+date: 2015-07-03 14:50:00
 category: iOS基础
-tags: iOS
+author:     "任天恒"
+header-img: "img/post-bg-01.jpg"
 ---
 简单的动画：
 

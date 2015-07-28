@@ -1,9 +1,10 @@
 ---
 layout: post
 title: UITableView中section展开子菜单的思路
-date: 2015-07-07 04:09:00 PM
-category: iOS基础
-tags: iOS
+subtitle:   "UITableViewCell展开子菜单在实际项目中运用十分广泛"
+date: 2015-07-07 16:09:00
+author:     "任天恒"
+header-img: "img/post-bg-01.jpg"
 ---
 UITableViewCell展开子菜单在实际项目中运用十分广泛。
 
@@ -52,11 +53,10 @@ UITableViewCell展开子菜单在实际项目中运用十分广泛。
 		-(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
     	if (_isOpen==YES ) {//cell展开
         	if (indexPath.section==_selectedIndex) {//被展开的section
-            
+
         	}else{//其他section
-           
+
         	}
     	}else{//UITableViewCell全部没有展开的情况下
     		}
 		}
-				

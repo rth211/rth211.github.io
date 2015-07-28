@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 胖Model和瘦Model
-date: 2015-06-30 09:21:00 PM
-category: iOS开阔眼见
-tags: iOS
+subtitle: "胖model和瘦model（fat model，skinny controller）"
+date: 2015-06-30 09:21:00
+author: "任天恒"
+header-img: "img/home-bg.jpg"
+
 ---
 
 胖model和瘦model（fat model，skinny controller）
@@ -60,11 +62,7 @@ tags: iOS
     }
 
 由于SlimModel跟业务完全无关，它的数据可以交给任何一个能处理它数据的Helper或其他的对象，来完成业务。在代码迁移的时候独立性很强，很少会出现拔出萝卜带出泥的情况。另外，由于SlimModel只是数据表达，对它进行维护基本上是0成本，软件膨胀得再厉害，SlimModel也不会大到哪儿去。
-	
+
 缺点就在于，Helper这种做法也不见得很好，这里有一篇文章批判了这个事情。另外，由于Model的操作会出现在各种地方，SlimModel在一定程度上违背了DRY（Don't Repeat Yourself）的思路，Controller仍然不可避免在一定程度上出现代码膨胀。
 
 说回来，MVCS是基于瘦Model的一种架构思路，把原本Model要做的很多事情中的其中一部分关于数据存储的代码抽象成了Store，在一定程度上降低了Controller的压力。
-
-
-
-

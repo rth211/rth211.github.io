@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Python笔记
-date: 2015-07-01 11:09:00 AM
-category: Python基础
-tags: Python
+subtitle:   "个人Python学习笔记"
+date: 2015-07-01 11:09:00
+author:     "任天恒"
+header-img: "img/home-bg.jpg"
 ---
 Python学习之旅，写下这篇笔记，方便以后查看，正所谓“好记性不如烂笔头”。
 
@@ -72,7 +73,3 @@ Python学习之旅，写下这篇笔记，方便以后查看，正所谓“好�
 *	布尔值： True和False
 
 未完待续~
-
-
-
-
