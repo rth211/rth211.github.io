@@ -5,7 +5,7 @@ subtitle: "胖model和瘦model（fat model，skinny controller）"
 date: 2015-06-30 09:21:00
 author: "任天恒"
 header-img: "img/home-bg.jpg"
-
+tags: iOS
 ---
 
 胖model和瘦model（fat model，skinny controller）

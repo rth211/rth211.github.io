@@ -5,7 +5,8 @@ subtitle:   "UIView Animation摘要"
 date: 2015-07-03 14:50:00
 category: iOS基础
 author:     "任天恒"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/home-bg.jpg"
+tags:	iOS
 ---
 简单的动画：
 

@@ -7,11 +7,15 @@ baseurl: ""
 url: "http://rth211.github.io"
 twitter_username:
 github_username:  rth211
-facebook_username:  rth211
+weibo_username: rth211
+facebook_username:
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
-paginate: 5
+paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+kramdown:
+  input: GFM

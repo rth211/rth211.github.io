@@ -1,13 +1,9 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
+    "name": "任天恒-blog",
+    "title": "任天恒的Blog",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
-    "license": {
-        "type": "Apache 2.0",
-        "url": "https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"
-    },
+    "homepage": "http://rth211.github.io",
+    "author": "rth211",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
@@ -17,6 +13,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/rth211/rth211.github.io"
     }
 }

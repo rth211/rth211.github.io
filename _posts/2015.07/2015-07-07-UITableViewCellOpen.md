@@ -4,7 +4,8 @@ title: UITableView中section展开子菜单的思路
 subtitle:   "UITableViewCell展开子菜单在实际项目中运用十分广泛"
 date: 2015-07-07 16:09:00
 author:     "任天恒"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/home-bg.jpg"
+tags:	iOS
 ---
 UITableViewCell展开子菜单在实际项目中运用十分广泛。
 
@@ -18,8 +19,7 @@ UITableViewCell展开子菜单在实际项目中运用十分广泛。
 
 	3.点击TableView相应的section的第一行时，展开子菜单。
 
-		- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)
-		indexPath{
+		- (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
     	[tableView deselectRowAtIndexPath:indexPath animated:YES];
     	if (_selectedIndex==indexPath.section && _isOpen==YES && indexPath.row==0) {//如果section已经展开，当用户再次在这个section的第一行点击，自动缩回。（indexPath.row==0 保证是第一行）
         	_isOpen=NO;
@@ -31,19 +31,16 @@ UITableViewCell展开子菜单在实际项目中运用十分广泛。
 		}
 
 
-	4.在tableview的代理中根据_isOpen==YES写入要展开的section的具体子菜单的行数（也就是row的行数）。
+		4.在tableview的代理中根据_isOpen==YES写入要展开的section的具体子菜单的行数（也就是row的行数）。
 
-				-(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+			- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 				{
 					if (_isOpen==YES ) {
 						if (section==_selectedIndex) {
 							return x;
-							}else{
+						}else{
 								return x;
-							}
-							}else{
-								return x;
-							}
+						}
 				}
 
 	>当_isOpen==YES的时候	在被选中的的section中加入row的数目。

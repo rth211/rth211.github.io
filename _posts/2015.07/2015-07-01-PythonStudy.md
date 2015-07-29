@@ -5,6 +5,7 @@ subtitle:   "个人Python学习笔记"
 date: 2015-07-01 11:09:00
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
+tags:	Python
 ---
 Python学习之旅，写下这篇笔记，方便以后查看，正所谓“好记性不如烂笔头”。
 
