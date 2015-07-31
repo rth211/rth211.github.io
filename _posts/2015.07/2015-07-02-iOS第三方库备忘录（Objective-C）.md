@@ -1,14 +1,14 @@
 ---
 layout: post
-title: iOS第三方库备忘录
-date: 2015-07-02 11:02:00
+title: iOS第三方库备忘录（Objective-C）
+date: 2015-07-31 15:42:00
 subtitle:   "整合iOS第三方库资料(Objective-C)"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
 tags:	iOS
 ---
 
-*	Http
+*	http
 	1.	[AFNetworking](https://github.com/AFNetworking/AFNetworking)，轻量、易用、使用者多、很多开发者在维护中。
 	2.	[ASIHTTPRequest](https://github.com/pokeb/asi-http-request)，目前处于年久失修情况。
 	3.	[MKNetworkKit](https://github.com/MugunthKumar/MKNetworkKit)，小众产品。
@@ -116,3 +116,10 @@ tags:	iOS
 
 *	图片生成(可以生成@2x,@3x图片)
 	1.	[RTImageAssets](https://github.com/rickytan/RTImageAssets)
+
+* 动画库
+	1.	[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView),酷炫的装载动画库及演示。
+	2.	[TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit),可以很方便的在应用中使用 icon 的点击动画过渡效果。
+
+第一次更新:2015-07-02 11:02:00
+最近更新:2015-07-31 15:41
