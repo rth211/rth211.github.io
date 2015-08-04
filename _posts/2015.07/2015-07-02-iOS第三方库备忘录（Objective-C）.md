@@ -78,6 +78,7 @@ tags:	iOS
 	2.	[SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)
 	3.	[EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh),作者已经停止更新。
 	4.	[Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS),带有动画。
+	5.	[ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl),类似于iOS6上的橡皮糖下拉刷新。
 
 *	提示App有新版本
 	1.	[Harpy](https://github.com/ArtSabintsev/Harpy)
@@ -120,6 +121,22 @@ tags:	iOS
 * 动画库
 	1.	[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView),酷炫的装载动画库及演示。
 	2.	[TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit),可以很方便的在应用中使用 icon 的点击动画过渡效果。
+
+*	图表
+	1.	[PNChart](https://github.com/kevinzhow/PNChart)
+	2.	[TEAChart](https://github.com/xhacker/TEAChart)
+
+*	Model
+	1.	[JSONModel](https://github.com/icanzilb/JSONModel)
+	2.	[Mantle](https://github.com/Mantle/Mantle)
+	3.	[MJExtension](https://github.com/CoderMJLee/MJExtension)
+
+* 模糊效果
+	1.	[VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation)
+	2.	[]
+
+* ActionSheet
+	1.	[UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet)
 
 第一次更新:2015-07-02 11:02:00
 最近更新:2015-07-31 15:41
