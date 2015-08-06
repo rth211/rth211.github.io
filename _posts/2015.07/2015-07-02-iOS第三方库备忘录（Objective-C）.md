@@ -1,8 +1,8 @@
 ---
 layout: post
-title: iOS第三方库备忘录（Objective-C）
+title: iOS资料收集（Objective-C）
 date: 2015-07-31 15:42:00
-subtitle:   "整合iOS第三方库资料(Objective-C)"
+subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
 tags:	iOS
@@ -137,6 +137,15 @@ tags:	iOS
 
 * ActionSheet
 	1.	[UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet)
+
+*	优秀demo
+	1.	[仿京东筛选菜单实现](https://github.com/zhangli4659507/JDSelectedDemo)
+	2.	[高仿美团](https://github.com/lookingstars/meituan)
+	3.	[高仿百度传课](https://github.com/lookingstars/chuanke)
+	4.	[高仿土豆](https://github.com/lookingstars/tudou)
+	5.	[高仿遨游](https://github.com/lookingstars/aoyouHH)
+	6.	[高仿美团iPad版](https://github.com/aiqiuqiu/Tuan)
+
 
 第一次更新:2015-07-02 11:02:00
 最近更新:2015-07-31 15:41
