@@ -133,7 +133,6 @@ tags:	iOS
 
 * 模糊效果
 	1.	[VVBlurPresentation](https://github.com/onevcat/VVBlurPresentation)
-	2.	[]
 
 * ActionSheet
 	1.	[UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet)
