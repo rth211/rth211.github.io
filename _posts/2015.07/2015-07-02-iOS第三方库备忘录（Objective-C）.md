@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-08-06 18:35:00
+date: 2015-08-11 15:35:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -68,6 +68,7 @@ tags:	iOS
 *	进度条（ProgressView）
 	1.	[DDProgressView](https://github.com/ddeville/DDProgressView)
 	2.	[THProgressView](https://github.com/tiagomnh/THProgressView)
+	3.	[MRProgress](https://github.com/mrackwitz/MRProgress)
 
 *	分段条
 	1.	[HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl)
@@ -147,4 +148,4 @@ tags:	iOS
 
 
 第一次更新:2015-07-02 11:02:00
-最近更新:2015-08-06 18:35
+最近更新:2015-08-11 15:35
