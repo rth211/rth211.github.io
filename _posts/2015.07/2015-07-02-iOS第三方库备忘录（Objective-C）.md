@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-08-11 15:35:00
+date: 2015-08-12 18:44:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -109,6 +109,7 @@ tags:	iOS
 
 * 广告轮播
 	1.	[HXInfiniteScrollView](https://github.com/ashamp/HXInfiniteScrollView)
+	2.	[SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
 
 *	照片选择器
 	1.	[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
@@ -148,4 +149,4 @@ tags:	iOS
 
 
 第一次更新:2015-07-02 11:02:00
-最近更新:2015-08-11 15:35
+最近更新:2015-08-12 18:44
