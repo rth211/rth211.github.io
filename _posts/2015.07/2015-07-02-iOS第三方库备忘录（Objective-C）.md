@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-08-12 18:44:00
+date: 2015-08-14 11:10:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -62,6 +62,7 @@ tags:	iOS
 	1.	[SDWebImage](https://github.com/rs/SDWebImage)，异步加载图片，强大的没话说，而且使用简单。
 	2.	[FastImageCache](https://github.com/path/FastImageCache)，主要针对于从磁盘文件读取并展示图片的极端优化，并没有集成异步图片下载的功能。
 	3.	[Haneke](https://github.com/Haneke/Haneke)
+	4.	[PINRemoteImage](https://github.com/pinterest/PINRemoteImage)
 
 	相关资料可以查看：[http://segmentfault.com/a/1190000002776279](http://segmentfault.com/a/1190000002776279)
 
@@ -146,7 +147,3 @@ tags:	iOS
 	4.	[高仿土豆](https://github.com/lookingstars/tudou)
 	5.	[高仿遨游](https://github.com/lookingstars/aoyouHH)
 	6.	[高仿美团iPad版](https://github.com/aiqiuqiu/Tuan)
-
-
-第一次更新:2015-07-02 11:02:00
-最近更新:2015-08-12 18:44
