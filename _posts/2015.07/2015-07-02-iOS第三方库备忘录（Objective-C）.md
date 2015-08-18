@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-08-14 11:10:00
+date: 2015-08-18 14:00:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -95,6 +95,9 @@ tags:	iOS
 *	UILabel
 	1.	[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)，UILabel的改进版。
 	2.	[DTCoreText](https://github.com/Cocoanetics/DTCoreText)
+
+*	键盘
+	1.	[NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker),实现类似iMessage中输入框跟随键盘的效果。
 
 *	数字提示框(badgeView)
 	1.	[JSBadgeView](https://github.com/JaviSoto/JSBadgeView)
