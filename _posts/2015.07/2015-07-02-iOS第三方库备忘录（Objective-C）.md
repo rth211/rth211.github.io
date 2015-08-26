@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-08-25 11:37:00
+date: 2015-08-26 18:21:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -120,6 +120,10 @@ tags:	iOS
 
 * AlertView
 	1.	[ios-custom-alertview](https://github.com/wimagguc/ios-custom-alertview)
+
+* 提示框
+	1.	[Toast](https://github.com/scalessec/Toast),类似于Android的Toast。
+	2.	[TAOverlay](https://github.com/TaimurAyaz/TAOverlay)
 
 *	图片生成(可以生成@2x,@3x图片)
 	1.	[RTImageAssets](https://github.com/rickytan/RTImageAssets)
