@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-08-26 18:21:00
+date: 2015-08-27 13:45:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -131,6 +131,12 @@ tags:	iOS
 * 动画库
 	1.	[DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView),酷炫的装载动画库及演示。
 	2.	[TBIconTransitionKit](https://github.com/AlexeyBelezeko/TBIconTransitionKit),可以很方便的在应用中使用 icon 的点击动画过渡效果。
+	3.	[BHBPopView](https://github.com/bb-coder/BHBPopView),仿新浪微博客户端“加号”按钮弹出动画。
+	4.	[KYCuteView](https://github.com/KittenYang/KYCuteView),实现类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果。
+	5.	[JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations),方便在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读。
+
+*	控件
+	1.	[Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS)
 
 *	图表
 	1.	[PNChart](https://github.com/kevinzhow/PNChart)
@@ -162,3 +168,4 @@ tags:	iOS
 
 *	iOS学习资料汇总
 	1.	[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
+	2.	[iOS动画资料](https://github.com/cjwirth/awesome-ios-ui)
