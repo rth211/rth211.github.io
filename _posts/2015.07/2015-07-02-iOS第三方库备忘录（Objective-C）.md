@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-08-27 13:45:00
+date: 2015-08-27 18:15:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -121,6 +121,7 @@ tags:	iOS
 
 *	照片选择器
 	1.	[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
+	2.	[WSPhotoSheet](https://github.com/PerfectShen/WSPhotoSheet),仿微信的点击选择图片样式。
 
 * AlertView
 	1.	[ios-custom-alertview](https://github.com/wimagguc/ios-custom-alertview)
@@ -138,6 +139,7 @@ tags:	iOS
 	3.	[BHBPopView](https://github.com/bb-coder/BHBPopView),仿新浪微博客户端“加号”按钮弹出动画。
 	4.	[KYCuteView](https://github.com/KittenYang/KYCuteView),实现类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果。
 	5.	[JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations),方便在应用中采用链式写出酷炫的动画效果, 使代码更加清晰易读。
+	6.	[SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate),灌水动画。
 
 *	控件
 	1.	[Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS)
@@ -160,6 +162,13 @@ tags:	iOS
 * 跑马灯
 	1.	[LSPaomaView](https://github.com/liusen001/LSPaomaView)
 
+*	聊天
+	1.	[ZYChat](https://github.com/zyprosoft/ZYChat),聊天界面UI设计思路demo。
+
+*	弹幕
+	1.	[QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo)
+	2.	[HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
+
 *	优秀demo
 	1.	[仿京东筛选菜单实现](https://github.com/zhangli4659507/JDSelectedDemo)
 	2.	[高仿美团](https://github.com/lookingstars/meituan)
@@ -170,7 +179,10 @@ tags:	iOS
 	7.	[v2ex](https://github.com/singro/v2ex)
 	8.	[豆瓣FM](https://github.com/XVXVXXX/DoubanFM)
 	9.	[高仿One](https://github.com/ihappyhacking/MyOne-iOS)
+	10.	[高仿网易](https://github.com/dsxNiubility/SXNews)
+	11. [高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)
 
 *	iOS学习资料汇总
 	1.	[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
 	2.	[iOS动画资料](https://github.com/cjwirth/awesome-ios-ui)
+	3.	[iOS中的开发字体](https://github.com/dsxNiubility/SXFontShow)
