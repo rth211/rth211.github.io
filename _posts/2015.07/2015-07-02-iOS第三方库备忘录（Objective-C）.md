@@ -41,6 +41,7 @@ tags:	iOS
 	5.	[react-native](https://github.com/facebook/react-native)，facebook的产品，用JavaScript写iOS程序。
 	6.	[Masonry](https://github.com/SnapKit/Masonry)，一款基于官方AutoLayout的iOS自动布局框架，但是比AutoLayout容易使用。
 	7.	[samurai-native](https://github.com/hackers-painters/samurai-native),用Html和CSS写iOS程序。
+	8.	[DKNightVersion](https://github.com/Draveness/DKNightVersion),白天黑夜切换。
 
 * 测试类框架
 
@@ -115,6 +116,9 @@ tags:	iOS
 	1.	[HXInfiniteScrollView](https://github.com/ashamp/HXInfiniteScrollView)
 	2.	[SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
 
+*	广告卡片
+	1.	[iCarousel](https://github.com/nicklockwood/iCarousel)
+
 *	照片选择器
 	1.	[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)
 
@@ -165,6 +169,7 @@ tags:	iOS
 	6.	[高仿美团iPad版](https://github.com/aiqiuqiu/Tuan)
 	7.	[v2ex](https://github.com/singro/v2ex)
 	8.	[豆瓣FM](https://github.com/XVXVXXX/DoubanFM)
+	9.	[高仿One](https://github.com/ihappyhacking/MyOne-iOS)
 
 *	iOS学习资料汇总
 	1.	[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
