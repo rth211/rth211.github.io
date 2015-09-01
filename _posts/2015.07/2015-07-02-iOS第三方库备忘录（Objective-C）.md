@@ -184,6 +184,7 @@ tags:	iOS
 	9.	[高仿One](https://github.com/ihappyhacking/MyOne-iOS)
 	10.	[高仿网易](https://github.com/dsxNiubility/SXNews)
 	11. [高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)
+	12.	[仿微信聊天](XMChatBarExample)
 
 *	iOS学习资料汇总
 	1.	[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
