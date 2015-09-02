@@ -12,3 +12,7 @@ tags:	Other
 *	[git文章1](http://www.cnblogs.com/pyer/p/4752770.html)
 
 * [从零开始学Python](https://github.com/qiwsir/StarterLearningPython)
+
+* [Python常见算法](http://www.imooc.com/article/1404)
+
+* [Python性能优化的20条建议](http://www.imooc.com/article/1438)
