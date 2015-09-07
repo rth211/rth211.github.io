@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-09-01 11:00:00
+date: 2015-09-07 17:00:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -167,6 +167,10 @@ tags:	iOS
 
 *	聊天
 	1.	[ZYChat](https://github.com/zyprosoft/ZYChat),聊天界面UI设计思路demo。
+	2.	[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+	3.	[ChatMessageTableView](https://github.com/RobinChao/ChatMessageTableViewController),上一个的修改版本。
+	4.	[MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit),搞得跟微信一样。
+
 
 *	弹幕
 	1.	[QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo)
