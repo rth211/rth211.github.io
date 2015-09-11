@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-09-07 17:00:00
+date: 2015-09-11 16:00:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -176,6 +176,15 @@ tags:	iOS
 	1.	[QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo)
 	2.	[HJDanmakuDemo](https://github.com/panghaijiao/HJDanmakuDemo)
 
+* UIWebView
+	1.	[WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge),OC 与 javascript 之间的桥梁。
+
+* KVO
+	1.	[KVOController](https://github.com/facebook/KVOController),facebook出品的KVO。
+
+* UINavigationBar
+	1.	[BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar),可伸缩的头部视图。
+
 *	优秀demo
 	1.	[仿京东筛选菜单实现](https://github.com/zhangli4659507/JDSelectedDemo)
 	2.	[高仿美团](https://github.com/lookingstars/meituan)
@@ -189,8 +198,3 @@ tags:	iOS
 	10.	[高仿网易](https://github.com/dsxNiubility/SXNews)
 	11. [高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)
 	12.	[仿微信聊天](XMChatBarExample)
-
-*	iOS学习资料汇总
-	1.	[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
-	2.	[iOS动画资料](https://github.com/cjwirth/awesome-ios-ui)
-	3.	[iOS中的开发字体](https://github.com/dsxNiubility/SXFontShow)
