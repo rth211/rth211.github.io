@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-09-11 16:00:00
+date: 2015-09-15 23:50:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -198,3 +198,4 @@ tags:	iOS
 	10.	[高仿网易](https://github.com/dsxNiubility/SXNews)
 	11. [高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)
 	12.	[仿微信聊天](XMChatBarExample)
+	13.	[WalkRecord](https://github.com/ming1016/WalkRecord),可记录行走路程，支持熄屏后台记录，本地推送通知已行走路程。
