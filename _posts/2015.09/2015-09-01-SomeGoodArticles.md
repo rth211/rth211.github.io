@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 一些技术文章收录
+title:  技术文章拾遗
 subtitle:   "技术文章备忘录，方便以后查看"
-date: 2015-09-11 15:00:00
+date: 2015-09-16 22:30:00
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
 tags:	Other
@@ -16,11 +16,21 @@ tags:	Other
   6.	[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)
 	7.	[iOS动画资料](https://github.com/cjwirth/awesome-ios-ui)
 	8.	[iOS中的开发字体](https://github.com/dsxNiubility/SXFontShow)
+  9.  [一个资深iOS开发者对于React Native的看法](http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+  10. [浅谈 Swift 中的泛型](http://swift.gg/2015/09/16/swift-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+  11. [iOS 9 开发高级技巧](https://realm.io/cn/news/tips-for-ios-9-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+  12. [记一次 UIScrollView + Autolayout 掉坑之旅](http://chengway.in/post/ji-zhu/uiscrollview-he-autolayout?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ioc)
 
 * Python
   1.  [Python常见算法](http://www.imooc.com/article/1404)
   2.  [从零开始学Python](https://github.com/qiwsir/StarterLearningPython)
   3.  [Python性能优化的20条建议](http://www.imooc.com/article/1438)
 
+* Ruby
+  1.  [Rails 实践](http://rails-practice.com/content/),Rails实践,有PDF版本。
+
 * Git
   1.  [git文章1](http://www.cnblogs.com/pyer/p/4752770.html)
+
+* 综合
+  1.  [如何高效的学习掌握新技术](http://www.cnblogs.com/dotey/p/4812633.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
