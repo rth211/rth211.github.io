@@ -2,7 +2,7 @@
 layout: post
 title:  技术文章拾遗
 subtitle:   "技术文章备忘录，方便以后查看"
-date: 2015-09-16 22:30:00
+date: 2015-09-25 11:00:00
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
 tags:	Other
@@ -20,6 +20,7 @@ tags:	Other
   10. [浅谈 Swift 中的泛型](http://swift.gg/2015/09/16/swift-generics/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   11. [iOS 9 开发高级技巧](https://realm.io/cn/news/tips-for-ios-9-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   12. [记一次 UIScrollView + Autolayout 掉坑之旅](http://chengway.in/post/ji-zhu/uiscrollview-he-autolayout?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ioc)
+  13. [有了Auto Layout,为什么你还是害怕写UITabelView的自适应布局?](http://ios.jobbole.com/82614/)
 
 * Python
   1.  [Python常见算法](http://www.imooc.com/article/1404)
