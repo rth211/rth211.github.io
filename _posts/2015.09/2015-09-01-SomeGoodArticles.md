@@ -2,7 +2,7 @@
 layout: post
 title:  技术文章拾遗
 subtitle:   "技术文章备忘录，方便以后查看"
-date: 2015-09-25 11:00:00
+date: 2015-10-06 11:00:00
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
 tags:	Other
@@ -21,6 +21,7 @@ tags:	Other
   11. [iOS 9 开发高级技巧](https://realm.io/cn/news/tips-for-ios-9-development/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   12. [记一次 UIScrollView + Autolayout 掉坑之旅](http://chengway.in/post/ji-zhu/uiscrollview-he-autolayout?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.ioc)
   13. [有了Auto Layout,为什么你还是害怕写UITabelView的自适应布局?](http://ios.jobbole.com/82614/)
+  14. [IOS二维码扫描,你需要注意的两件事](http://blog.cnbluebox.com/blog/2014/08/26/ioser-wei-ma-sao-miao/)
 
 * Python
   1.  [Python常见算法](http://www.imooc.com/article/1404)
