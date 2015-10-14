@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-09-15 23:50:00
+date: 2015-10-14 13:30:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -86,6 +86,9 @@ tags:	iOS
 *	提示App有新版本
 	1.	[Harpy](https://github.com/ArtSabintsev/Harpy)
 
+*	日志
+	1.	[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+
 *	App引导页
 	1.	[EAIntroView](https://github.com/ealeksandrov/EAIntroView)
 
@@ -99,6 +102,9 @@ tags:	iOS
 
 *	TextField
 	1.	[MMTextFieldEffects](https://github.com/mukyasa/MMTextFieldEffects),15种酷炫自定义TextField。
+
+*	TableViewCell
+	1.	[MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell),TableViewCell手势操作样式。
 
 *	键盘
 	1.	[NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker),实现类似iMessage中输入框跟随键盘的效果。
@@ -199,3 +205,6 @@ tags:	iOS
 	11. [高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)
 	12.	[仿微信聊天](XMChatBarExample)
 	13.	[WalkRecord](https://github.com/ming1016/WalkRecord),可记录行走路程，支持熄屏后台记录，本地推送通知已行走路程。
+	14.	[Coding-iOS](https://github.com/Coding/Coding-iOS),Coding iOS 客户端源代码。
+	15.	[高仿美团2](https://github.com/zangqilong198812/MeituanDemo)
+	16.	[高仿美团3](https://github.com/tubie/JFMeiTuan)
