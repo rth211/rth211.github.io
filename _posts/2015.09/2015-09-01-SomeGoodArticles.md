@@ -2,7 +2,7 @@
 layout: post
 title:  技术文章拾遗
 subtitle:   "技术文章备忘录，方便以后查看"
-date: 2015-10-15 12:00:00
+date: 2015-10-21 15:30:00
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
 tags:	Other
@@ -23,6 +23,7 @@ tags:	Other
   13. [有了Auto Layout,为什么你还是害怕写UITabelView的自适应布局?](http://ios.jobbole.com/82614/)
   14. [IOS二维码扫描,你需要注意的两件事](http://blog.cnbluebox.com/blog/2014/08/26/ioser-wei-ma-sao-miao/)
   15. [ios下使用rsa算法与php进行加解密通讯](http://blog.yorkgu.me/2011/10/27/rsa-in-ios-using-publick-key-generated-by-openssl/)
+  16. [AutoLayout全解](http://www.cocoachina.com/ios/20151021/13825.html)
 
 * Python
   1.  [Python常见算法](http://www.imooc.com/article/1404)
