@@ -2,7 +2,7 @@
 layout: post
 title:  技术文章拾遗
 subtitle:   "技术文章备忘录，方便以后查看"
-date: 2016-01-15 21:30:00
+date: 2016-02-14 13:41:00
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
 tags:	Other
@@ -25,6 +25,7 @@ tags:	Other
   15. [ios下使用rsa算法与php进行加解密通讯](http://blog.yorkgu.me/2011/10/27/rsa-in-ios-using-publick-key-generated-by-openssl/)
   16. [AutoLayout全解](http://www.cocoachina.com/ios/20151021/13825.html)
   17. [iOS应用架构谈：架构设计的方法论](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=407735372&idx=1&sn=87c20f7db6990db00838498827692683#rd)
+  18. [聪明的iOS开发者的Xcode使用技巧](http://www.cocoachina.com/ios/20160205/15233.html)
 
 * Python
   1.  [Python常见算法](http://www.imooc.com/article/1404)
