@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2016-4-26 11:30:00
+date: 2016-04-26 11:30:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
