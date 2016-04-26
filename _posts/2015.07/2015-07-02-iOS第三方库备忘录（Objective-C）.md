@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS资料收集（Objective-C）
-date: 2015-10-14 13:30:00
+date: 2016-4-26 11:30:00
 subtitle:   "整合iOS优秀资料(Objective-C)，包括第三方库，优秀demo"
 author:     "任天恒"
 header-img: "img/home-bg.jpg"
@@ -120,6 +120,7 @@ tags:	iOS
 
 * 菜单栏
 	1.	[TumblrMenu](https://github.com/cyndibaby905/TumblrMenu),类似于微博点击+号跳出的菜单
+	2.	[WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo),仿简书、淘宝等等App的View弹出效果
 
 * 广告轮播
 	1.	[HXInfiniteScrollView](https://github.com/ashamp/HXInfiniteScrollView)
